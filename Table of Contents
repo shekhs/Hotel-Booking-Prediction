@@ -1,0 +1,26 @@
+Table of Contents
+
+EDA
+
+From where the most guests are coming ?
+How much do guests pay for a room per night?
+How does the price vary per night over the year?
+Which are the most busy months?
+How long do people stay at the hotels?
+Data Pre Processing
+
+Model Building
+
+Logistic Regression
+Knn
+Decision Tree Classifier
+Random Forest Classifier
+Ada Boost Classifier
+Gradient Boosting Classifier
+XgBoost
+Cat Boost Classifier
+Extra Trees Classifier
+LGBM Classifier
+ANN
+Voting Classifier
+Models Comparison
